@@ -5,4 +5,6 @@ fun main() {
     println("Segunda modificacion despues de crear el login")
 
     println("nueva version 3 de main")
+
+    printt("Error aproposito por que no he terminado el codigo y por eso se ocupa stash")
 }
