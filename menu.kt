@@ -6,5 +6,5 @@ fun main() {
 
     println("nueva version 3 de main")
 
-    printt("Error aproposito por que no he terminado el codigo y por eso se ocupa stash")
+    print("Error aproposito por que no he terminado el codigo y por eso se ocupa stash")
 }
