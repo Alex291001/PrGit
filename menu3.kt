@@ -1,4 +1,4 @@
-fun menu2 (){
+fun menu2_modification (){
 
     println("programa git 2")
 }

@@ -11,5 +11,7 @@ fun main() {
 
 
     print("He hecho un nuevo cambio desde local ya habiedo creado el acceso remoto desde GitHub2")
+
+    menu2().action_the_function()
 }
 

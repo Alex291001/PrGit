@@ -1,4 +1,4 @@
 fun nueva_accion(){
     //hola
-    print("hola");
+    println("hola");
 }
