@@ -20,7 +20,7 @@ Como se trata de una plataforma online todos tus codigos quedan guardados en la 
 
 ### [Descarga](https://git-scm.com/downloads) e [Instalacion de Git](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git)
 
-## [Todo lo que tienes que sabes de Git y Github por MoureDev](https://github.com/mouredev/hello-git/blob/main/README.md](https://github.com/mouredev/hello-git)https://github.com/mouredev/hello-git)
+## [Todo lo que tienes que sabes de Git y Github por MoureDev](https://github.com/mouredev/hello-git)
 
 
 
