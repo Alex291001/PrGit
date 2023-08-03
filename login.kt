@@ -1,6 +1,6 @@
-class menu5 {
+fun menu5 (){
 
-    printn("nuevo login")
+    println("nuevo login")
 
     println("nuevo ajuste al login despues de modificar main ")
 
