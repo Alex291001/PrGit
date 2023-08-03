@@ -1,4 +1,4 @@
-class menu2 {
+fun menu2 (){
 
-    printn("programa git 2")
+    println("programa git 2")
 }
